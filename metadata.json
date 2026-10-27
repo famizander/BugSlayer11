@@ -1,0 +1,6 @@
+{
+  "name": "BugSlayer",
+  "description": "AI-powered programming assistant that helps students understand coding errors instead of simply giving them corrected code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
